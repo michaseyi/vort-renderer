@@ -1,0 +1,8 @@
+.vscode
+bin
+build
+lib/ecs
+lib/fastgltf
+lib/fmt
+lib/glfw
+packages
